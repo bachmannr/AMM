@@ -1,1 +1,1 @@
-# AMM
+# AMM - automated market maker
